@@ -1,0 +1,268 @@
+[
+  {
+    "builder": "Locutus",
+    "github": "KeyArgo",
+    "repo": "KeyArgo/custodian-hermes-guard",
+    "description": "Fail-closed Custodian policy guard for Hermes Agent",
+    "language": "Python"
+  },
+  {
+    "builder": "Locutus",
+    "github": "KeyArgo",
+    "repo": "KeyArgo/custodian-kernel",
+    "description": "Kernel-enforced authority and spend platform for AI agents",
+    "language": "Python"
+  },
+  {
+    "builder": "Locutus",
+    "github": "KeyArgo",
+    "repo": "KeyArgo/custodian-talaria",
+    "description": "Governed runtime and operator experience for Hermes Agent, built on Custodian's policy kernel and Paladin credential broker",
+    "language": "Python"
+  },
+  {
+    "builder": "Locutus",
+    "github": "KeyArgo",
+    "repo": "KeyArgo/hail-hermes",
+    "description": "Talk to your Hermes agent out loud \u2014 in the desktop panel, or from a Wear OS watch it pairs with in four digits.",
+    "language": "Python"
+  },
+  {
+    "builder": "Locutus",
+    "github": "KeyArgo",
+    "repo": "KeyArgo/hermes-aura",
+    "description": "A film behind your work, and an app that breathes with your audio \u2014 a MilkDrop-compatible visualiser and film pane for Hermes Desktop.",
+    "language": "JavaScript"
+  },
+  {
+    "builder": "Locutus",
+    "github": "KeyArgo",
+    "repo": "KeyArgo/hermes-game-center",
+    "description": "Real board and card games you can play inside Hermes Agent \u2014 chess, go, checkers and more, each with its own rules engine and a referee.",
+    "language": "Python"
+  },
+  {
+    "builder": "Locutus",
+    "github": "KeyArgo",
+    "repo": "KeyArgo/hermes-music-studio",
+    "description": "Describe a song; Hermes drafts lyrics and style for your approval, then renders it locally on ACE-Step or through MiniMax.",
+    "language": "Python"
+  },
+  {
+    "builder": "Locutus",
+    "github": "KeyArgo",
+    "repo": "KeyArgo/hermes-omniscience",
+    "description": "See what your Hermes agent is doing, live. Every step on a map, with replay. Local, private, read-only.",
+    "language": "Python"
+  },
+  {
+    "builder": "Locutus",
+    "github": "KeyArgo",
+    "repo": "KeyArgo/hermes-revamp",
+    "description": "REVamp: a Winamp-style music, audiobook and radio player for Hermes Agent (and other agent apps)",
+    "language": "Python"
+  },
+  {
+    "builder": "Sahil",
+    "github": "Sahil-SS9",
+    "repo": "Sahil-SS9/agent-personas",
+    "description": "Portable skills, personas and bundles for dedicated agents across multiple harnesses",
+    "language": "Python"
+  },
+  {
+    "builder": "Sahil",
+    "github": "Sahil-SS9",
+    "repo": "Sahil-SS9/Agent-Pocket-Notes",
+    "description": "Pocket Notes \u2014 a fast, private desktop notebook with harness-backed agent runs (Qt Quick)",
+    "language": "Python"
+  },
+  {
+    "builder": "Sahil",
+    "github": "Sahil-SS9",
+    "repo": "Sahil-SS9/agent-reel",
+    "description": "Agent-Reel turn agent history into grounded comic strips",
+    "language": "Python"
+  },
+  {
+    "builder": "Sahil",
+    "github": "Sahil-SS9",
+    "repo": "Sahil-SS9/agent-run-debugger",
+    "description": "Local-first evidence debugger for failed, stalled or expensive agent runs: timeline, diagnosis and inert replay.",
+    "language": "Python"
+  },
+  {
+    "builder": "Sahil",
+    "github": "Sahil-SS9",
+    "repo": "Sahil-SS9/hermaguard",
+    "description": "Adversarial bug-hunting code review for AI agents. 3 parallel subagents attack code from different angles, then a consolidator merges and triages findings. Read-only \u2014 finds problems, doesn't fix.",
+    "language": "Python"
+  },
+  {
+    "builder": "Sahil",
+    "github": "Sahil-SS9",
+    "repo": "Sahil-SS9/hermes-agent-mixer",
+    "description": "A mixing desk for how much a coding agent may change: enforced edits/scope/lines/deps dials with /mixer, a desktop dial panel and a steering console \u2014 for Hermes, Claude Code, Codex and Gemini CLI",
+    "language": "Python"
+  },
+  {
+    "builder": "Sahil",
+    "github": "Sahil-SS9",
+    "repo": "Sahil-SS9/hermes-agent-radio-plugin",
+    "description": "Hermes Agent Radio: a 24/7 station about Hermes Agent, inside Hermes Desktop, with 8 agent tools",
+    "language": "Python"
+  },
+  {
+    "builder": "Sahil",
+    "github": "Sahil-SS9",
+    "repo": "Sahil-SS9/hermes-branchpoint",
+    "description": "Branchpoint: give the same task to 2-8 agents, each plans and builds its own way in an isolated worktree; a blind council picks a winner with cited evidence. A Hermes Agent plugin.",
+    "language": "Python"
+  },
+  {
+    "builder": "Sahil",
+    "github": "Sahil-SS9",
+    "repo": "Sahil-SS9/hermes-project-stewardship",
+    "description": "Durable project ownership for Hermes agent fleets: verified cycles, bounded initiatives, explicit autonomy policy.",
+    "language": "JavaScript"
+  },
+  {
+    "builder": "Sahil",
+    "github": "Sahil-SS9",
+    "repo": "Sahil-SS9/hermes-share",
+    "description": "Hermes plugin: share sessions as a redacted, revocable secret gist, and import them back",
+    "language": "Python"
+  },
+  {
+    "builder": "Sahil",
+    "github": "Sahil-SS9",
+    "repo": "Sahil-SS9/hermes-walkie-talkie",
+    "description": "Secure same-machine peer messaging for independent Hermes Agent sessions",
+    "language": "Python"
+  },
+  {
+    "builder": "Sahil",
+    "github": "Sahil-SS9",
+    "repo": "Sahil-SS9/house-style",
+    "description": "Hermes plugin: learn a project's house style from how you correct the agent's edits",
+    "language": "Python"
+  },
+  {
+    "builder": "Sahil",
+    "github": "Sahil-SS9",
+    "repo": "Sahil-SS9/llm-judge-jury-executioner",
+    "description": "Multi-LLM deliberation council \u2014 Judge, Jury, Executioner pattern. Dynamic agent composition, cross-examination, cascade-breaking, minority reports. Research-backed synthesis of 5 community approaches + academic findings.",
+    "language": "Python"
+  },
+  {
+    "builder": "Sahil",
+    "github": "Sahil-SS9",
+    "repo": "Sahil-SS9/modernisation-engine",
+    "description": "Source assessment, reviewed migration contracts and gated old/new evidence for repository modernisation.",
+    "language": "Python"
+  },
+  {
+    "builder": "Sahil",
+    "github": "Sahil-SS9",
+    "repo": "Sahil-SS9/Severian",
+    "description": "Severian: local-first AI memory platform (canonical store, 5-D scope, dreaming/curation)",
+    "language": "Python"
+  },
+  {
+    "builder": "Sahil",
+    "github": "Sahil-SS9",
+    "repo": "Sahil-SS9/Toolaria",
+    "description": "Rescue oversized tool results before they flood context. SHA256-addressed blob store with per-session indexes",
+    "language": "Python"
+  },
+  {
+    "builder": "GottZ",
+    "github": "GottZ",
+    "repo": "GottZ/ctx",
+    "description": "The memory your LLM pretends to have.",
+    "language": "Go"
+  },
+  {
+    "builder": "GottZ",
+    "github": "GottZ",
+    "repo": "GottZ/hermesforce",
+    "description": "A small web service for a community that keeps a shared list of its members and their GitHub repositories in a Word document (.docx).",
+    "language": "Go"
+  },
+  {
+    "builder": "Design Bakery",
+    "github": "Pukujan",
+    "repo": "Pukujan/swarm-studio",
+    "description": "A swarm of agents designs and builds a multi-page website live on a canvas. Hermes Agent plugin.",
+    "language": "TypeScript"
+  },
+  {
+    "builder": "Sloptimus",
+    "github": "mojomast",
+    "repo": "mojomast/assetrizz-hermes",
+    "description": "Hermes plugin for the assetrizz 2D game-asset library: search, compose scenes, and preview in a dark pane.",
+    "language": "Python"
+  },
+  {
+    "builder": "Sloptimus",
+    "github": "mojomast",
+    "repo": "mojomast/bundlebees",
+    "description": "Hermes plugin for orchestrating CUA bees (worker launcher, briefs, leases, verify).",
+    "language": "Python"
+  },
+  {
+    "builder": "Sloptimus",
+    "github": "mojomast",
+    "repo": "mojomast/EOH",
+    "description": "God's Eye View inside Hermes Agent: live 3D globe pane Hermes can drive, public-data tools, HUD via Hermes inference",
+    "language": "Python"
+  },
+  {
+    "builder": "Sloptimus",
+    "github": "mojomast",
+    "repo": "mojomast/hermagotchi",
+    "description": "Hermagotchi \u2014 Hermes multiplayer agent-pet plugin (hackathon)",
+    "language": "Python"
+  },
+  {
+    "builder": "Sloptimus",
+    "github": "mojomast",
+    "repo": "mojomast/hermes-photo-to-part",
+    "description": "Hermes plugin: turn photos, measurements or a 3D scan into a printable STL / editable CAD part, iterating against the original",
+    "language": "Python"
+  },
+  {
+    "builder": "Sloptimus",
+    "github": "mojomast",
+    "repo": "mojomast/hermes-plugin-dev",
+    "description": "Teach any coding agent to build Hermes Agent plugins: an Agent Skill + a Hermes plugin (scaffold & lint tools), distilled from shipping real plugins.",
+    "language": "Python"
+  },
+  {
+    "builder": "Sloptimus",
+    "github": "mojomast",
+    "repo": "mojomast/hermes-stitchslop",
+    "description": "Drive the Stitch Slop embroidery digitizer from Hermes Agent: live pane, bridge protocol, DST/PES export. Four tools, no dependencies.",
+    "language": "Python"
+  },
+  {
+    "builder": "Sloptimus",
+    "github": "mojomast",
+    "repo": "mojomast/hermes-templeos",
+    "description": "TempleOS (TinkerOS) in a QEMU VM for Hermes: the agent and you share one live screen",
+    "language": "Python"
+  },
+  {
+    "builder": "Sloptimus",
+    "github": "mojomast",
+    "repo": "mojomast/hyperrizz",
+    "description": "A production-minded agent skill for distinctive HyperFrames films. Art direction, motion, audio, deterministic rendering, and verified delivery.",
+    "language": "JavaScript"
+  },
+  {
+    "builder": "Sloptimus",
+    "github": "mojomast",
+    "repo": "mojomast/poptart",
+    "description": "Hermes Strudel Studio standalone foundation",
+    "language": "HTML"
+  }
+]
