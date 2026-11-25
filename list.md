@@ -53,3 +53,56 @@
 - **[hermagotchi](https://github.com/mojomast/hermagotchi)**: Multiplayer agent-pet plugin for Hermes
 - **[bundlebees](https://github.com/mojomast/bundlebees)**: Hermes plugin for orchestrating CUA bees (worker launcher, briefs, leases, verify)
 - **[assetrizz-hermes](https://github.com/mojomast/assetrizz-hermes)**: Hermes plugin for the assetrizz 2D game-asset library: search, compose scenes, and preview in a dark pane
+
+## Adolan · [@Adolanium](https://github.com/Adolanium) · X [@adolandev](https://x.com/adolandev)
+*His own catalog: [adolanium.github.io/hermes-plugins](https://adolanium.github.io/hermes-plugins/)*
+- **[hermes-gadget-sdk](https://github.com/Adolanium/hermes-gadget-sdk)**: Build voice and text devices for your Hermes Agent, with ESP32 firmware, a Linux client, and a desktop simulator
+- **[hermes-whiteboard](https://github.com/Adolanium/hermes-whiteboard)**: An agentic whiteboard for Hermes Desktop
+- **[hermes-borealis](https://github.com/Adolanium/hermes-borealis)**: Borealis: a live dithered landscape theme for Hermes Desktop
+- **[hermes-osint-map](https://github.com/Adolanium/hermes-osint-map)**: Live OSINT globe for Hermes Desktop: earthquakes, disasters, aircraft, satellites, news incidents, recon and agent briefings from public sources
+- **[hermes-memory-pane](https://github.com/Adolanium/hermes-memory-pane)**: See what Hermes remembered in each chat, and edit or undo it from a Hermes Desktop pane
+- **[hermes-plugin-shodan](https://github.com/Adolanium/hermes-plugin-shodan)**: Shodan.io for Hermes Agent
+- **[hermes-pantheon](https://github.com/Adolanium/hermes-pantheon)**: Ten gods for your Hermes desktop: themes in dithered classical marble
+- **[hermes-ledgerline](https://github.com/Adolanium/hermes-ledgerline)**: Live cost and session intelligence for Hermes Desktop
+- **[hermes-clinepass](https://github.com/Adolanium/hermes-clinepass)**: ClinePass provider plugin for Hermes Agent (Kimi K3, GLM, DeepSeek, and more)
+- **[hermes-sheets](https://github.com/Adolanium/hermes-sheets)**: An agentic spreadsheet for Hermes Desktop
+- **[hermes-data](https://github.com/Adolanium/hermes-data)**: An agentic report page for Hermes Desktop
+- **[hermes-threatmap](https://github.com/Adolanium/hermes-threatmap)**: Live cyber threat map page for Hermes Desktop: a dithered 3D globe of attacks from Check Point's public threat map feed
+- **[hermes-nous-prices](https://github.com/Adolanium/hermes-nous-prices)**: Nous Portal model pricing, saved prices, and account balances inside Hermes Desktop
+- **[hermes-glyphwake](https://github.com/Adolanium/hermes-glyphwake)**: Click the empty chat in Hermes Desktop and watch it spell itself
+- **[hermes-tripo](https://github.com/Adolanium/hermes-tripo)**: Tripo 3D for Hermes Agent: text or photos to 3D models, then rig, animate and convert them, with an approval prompt for every credit spent
+- **[hermes-asgard](https://github.com/Adolanium/hermes-asgard)**: Norse gods for Hermes Desktop (work in progress)
+- **[hermes-horizon](https://github.com/Adolanium/hermes-horizon)**: Horizon: a live dithered Earth theme for Hermes Desktop
+- **[hermes-session-diff](https://github.com/Adolanium/hermes-session-diff)**: Persistent session file diffs and edit history for Hermes Desktop
+- **[hermes-plugin-openalex](https://github.com/Adolanium/hermes-plugin-openalex)**: OpenAlex for Hermes Agent
+- **[hermes-stave](https://github.com/Adolanium/hermes-stave)**: Describe a piece of music and Hermes writes it as sheet music: a Hermes Desktop page that engraves, plays and edits the score
+- **[hermes-kemet](https://github.com/Adolanium/hermes-kemet)**: Twelve Egyptian gods for Hermes Desktop, in painted relief and gold leaf
+- **[hermes-nous](https://github.com/Adolanium/hermes-nous)**: Nous Research characters as 80s game heroes: themes for Hermes Desktop in light and dark
+- **[hermes-devin](https://github.com/Adolanium/hermes-devin)**: ☤ Delegate coding to Devin without leaving Hermes
+- **[hermes-plugins](https://github.com/Adolanium/hermes-plugins)**: Public Hermes plugin catalog with search, install instructions and daily updates
+- **[hermes-toolsmith](https://github.com/Adolanium/hermes-toolsmith)**: 19 local developer tools, transformation recipes, and reviewed chat handoff inside Hermes Desktop
+- **[Flymes](https://github.com/Adolanium/Flymes)**: MaleCNS connectome controller for Hermes tool selection, with a live desktop panel
+- **[hermes-cloudflare-web-search](https://github.com/Adolanium/hermes-cloudflare-web-search)**: Cloudflare Web Search provider for Hermes Agent using Ceramic, Exa, or Linkup through AI Gateway
+- **[hermes-deepseek-web](https://github.com/Adolanium/hermes-deepseek-web)**: DeepSeek Search & Fetch web backend for Hermes Agent: search the web and read any page as Markdown
+- **[hermes-jina](https://github.com/Adolanium/hermes-jina)**: Jina Reader web backend for Hermes Agent: read any page as Markdown, search the web
+- **[hermes-lang-he](https://github.com/Adolanium/hermes-lang-he)**: Hebrew (עברית) language pack for Hermes Agent: CLI, gateway, TUI and Desktop, right to left
+- **[hermes-plugin-resume-session](https://github.com/Adolanium/hermes-plugin-resume-session)**: Resume Claude Code, Codex, and Cursor sessions inside Hermes with a compact pick-up card
+
+## HotDawg · [@DECRUX9812](https://github.com/DECRUX9812)
+- **[hermes-plugin-gameforge](https://github.com/DECRUX9812/hermes-plugin-gameforge)**: Game development plugin for Hermes Agent: sound effects, music, NPC voices, pixel art, 3D models, Godot/Unity/Blender/Unreal, a playtester that actually…
+- **[hermes-office](https://github.com/DECRUX9812/hermes-office)**: Hermes plugin for safely editing Word, PowerPoint and Excel files: tracked changes, receipts, revert and a review Desk, built on paper-docx/pptx/xlsx
+- **[typesafe-skill-router](https://github.com/DECRUX9812/typesafe-skill-router)**: TypeSafe (Jev) skill routing for Hermes Agent: names the one skill worth loading, before the model call
+- **[hermes-handflow](https://github.com/DECRUX9812/hermes-handflow)**: Manus-style planning flow for Hermes Agent: the agent writes a step plan and marks it as it works, while a dockable pane shows the same plan live
+- **[webmint](https://github.com/DECRUX9812/webmint)**: Turn a website into a deterministic, verified tool: learned once by whatever model you already run, then executed with no model in the loop
+- **[hermes-tauri](https://github.com/DECRUX9812/hermes-tauri)**: Optional Tauri v2 desktop shell for Hermes Agent, alongside the Electron app: the same Hermes web UI and Python plugin backend in a system webview, with…
+- **[hermes-signals](https://github.com/DECRUX9812/hermes-signals)**: Local-first deterministic behavior-quality signals for Hermes Agent
+- **[hermes-plugin-notebook](https://github.com/DECRUX9812/hermes-plugin-notebook)**: A research studio inside Hermes Desktop that answers only from the sources you give it
+- **[subscription-hub](https://github.com/DECRUX9812/subscription-hub)**: Hermes Desktop plugin for subscription quotas, usage history, provider connections, and proxy health
+- **[rigforge-plugin](https://github.com/DECRUX9812/rigforge-plugin)**: A build studio for robots and printed machines, inside Hermes Desktop
+- **[hermes-day](https://github.com/DECRUX9812/hermes-day)**: One screen to run your whole Hermes day: a full-screen triage cockpit for Hermes Desktop (approvals, clarifies, in-flight sessions, review queue, crons)…
+- **[hermes-loopguard](https://github.com/DECRUX9812/hermes-loopguard)**: Hermes Agent plugin that stops automations from burning tokens: a zero-token change gate for cron and kanban, a cheap typed semantic gate (TypeSafe Jev or…
+- **[hermes-desktop-plus](https://github.com/DECRUX9812/hermes-desktop-plus)**: Hermes Desktop Plus: browser UI sidecar for Hermes Agent
+- **[cpa-quota](https://github.com/DECRUX9812/cpa-quota)**: Hermes Desktop quota dashboard for CLIProxyAPI and Antigravity accounts
+- **[hermes-backdrops](https://github.com/DECRUX9812/hermes-backdrops)**: Hermes Desktop plugin: put a picture behind your chat without touching your theme
+- **[hermes-plugin-opticraft](https://github.com/DECRUX9812/hermes-plugin-opticraft)**: Real optical design inside Hermes: Sellmeier glass, exact ray trace, achromat optimizer
+- **[hermes-plugin-delayclaim](https://github.com/DECRUX9812/hermes-plugin-delayclaim)**: EU261/UK261 flight compensation, computed and tracked: Hermes plugin
